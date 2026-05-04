@@ -10,7 +10,8 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-
 </p>
+
+[![Luan Stats](https://github-readme-stats.vercel.app/api?username= DevLuan1345)](https://github.com/anuraghazra/github-readme-stats)
 
 
