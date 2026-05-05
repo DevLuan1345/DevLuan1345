@@ -25,8 +25,8 @@ align="left"
 alt="Github Stats"
 height="200"
 style="padding-right= 10px";
-src="![Luan Stats](https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true)">
-  
+src="![Luan Stats](https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br)">
+</p>  
 
 
 
