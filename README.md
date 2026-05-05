@@ -20,5 +20,6 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 
 ## Estatísticas
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
