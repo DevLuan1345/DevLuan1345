@@ -25,14 +25,14 @@ align="left"
 alt="Github Stats"
 height="200"
 style="padding-right= 10px";
-src="https://github-readme-stats.vercel.app/api?username=devluan1345&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"/>
+src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true)>
 
 <img
 align="left"
 alt="Github Stats"
 height="200"
 style="padding-right= 10px";
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuan1345 https://github.com/anuraghazra/github-readme-stats"/>
+src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DevLuan1345)](https://github.com/anuraghazra/github-readme-stats)>
 
 
 
