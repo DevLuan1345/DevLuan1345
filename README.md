@@ -18,22 +18,22 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
 
+
 ## Estatísticas
 
-<img
-align="left"
-alt="Github Stats"
-height="200"
-style="padding-right= 10px";
-src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true)>
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true&theme=tokyonight"
+/>
 
-<img
-align="left"
-alt="Github Stats"
-height="200"
-style="padding-right= 10px";
-src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DevLuan1345)](https://github.com/anuraghazra/github-readme-stats)>
-
-
+<img 
+  align="left" 
+  alt="Top Languages" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuan1345&layout=compact&theme=tokyonight"
+/>
 
 
