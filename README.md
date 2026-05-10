@@ -5,19 +5,19 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 <br>
 
 ## 🌀 Redes Sociais
-<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
+<a href="https://www.facebook.com/share/18YzGZj9db/" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/parakeet-filled/48/facebook-new.png" alt="facebook-new"/>
 </a> 
-<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
+<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg=" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/parakeet-filled/48/instagram-new.png" alt="instagram-new"/>
 </a>
-<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
+<a href="linkedin.com/in/luan-carlos-6ab5412a9" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/glyph-neue/64/linkedin.png" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
+<a href="https://www.tiktok.com/@lcservises2025?_r=1&_t=ZS-96ETdN96ayz" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" alt="tiktok--v1"/>
 </a>
-<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
+<a href="https://x.com/LuanCarl1345" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/>
 </a>  
 <br>
