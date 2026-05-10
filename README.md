@@ -7,11 +7,19 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 ## 🌀 Redes Sociais
 <a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/parakeet-filled/48/facebook-new.png" alt="facebook-new"/>
-</a>  
+</a> 
+<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/parakeet-filled/48/instagram-new.png" alt="instagram-new"/>
+</a>
+<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/glyph-neue/64/linkedin.png" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" alt="tiktok--v1"/>
+</a>
+<a href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==" target="_blank">
 <img width="48" align="left" height="48" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/>
+</a>  
 <br>
 <br>
 <br>
