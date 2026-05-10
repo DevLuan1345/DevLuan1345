@@ -5,7 +5,7 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 <br>
 
 ## 🌀 Redes Sociais
-<img width="48" align="left" height="48" src="https://img.icons8.com/parakeet-filled/48/facebook-new.png" alt="facebook-new"/>
+<img width="48" align="left" height="48" src="https://img.icons8.com/parakeet-filled/48/facebook-new.png" alt="facebook-new"/ <a>href="https://www.instagram.com/luancarlos983?igsh=MXNpeGltOWJhNGhiMg==>">
 <img width="48" align="left" height="48" src="https://img.icons8.com/parakeet-filled/48/instagram-new.png" alt="instagram-new"/>
 <img width="48" align="left" height="48" src="https://img.icons8.com/glyph-neue/64/linkedin.png" alt="linkedin"/>
 <img width="48" align="left" height="48" src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" alt="tiktok--v1"/>
