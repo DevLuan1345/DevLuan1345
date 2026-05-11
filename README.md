@@ -40,7 +40,7 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 <p align="left">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true&theme=transparent" 
+     src="https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true&theme=transparent" 
   />
 
   <img 
