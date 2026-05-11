@@ -35,21 +35,16 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 </p>
 
 
-## Estatísticas
+## 📊 Estatísticas
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuan1345)](https://github.com/anuraghazra/github-readme-stats)"
-/>
+<p align="left">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true&theme=transparent" 
+  />
 
-<img 
-  align="left" 
-  alt="Top Languages" 
-  height="200" 
-  src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true&theme=transparent)"
-/>
-
-
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuan1345&layout=compact&theme=transparent" 
+  />
+</p>
