@@ -38,13 +38,7 @@ Olá meu nome é Luan Carlos, sou um programador Front-End em formação, atualm
 ## 📊 Estatísticas
 
 <p align="left">
-  <img 
-    height="180em" 
-     src="https://github-readme-stats.vercel.app/api?username=DevLuan1345&show_icons=true&theme=transparent" 
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuan1345&layout=compact&theme=transparent" 
-  />
+  <img src="https://komarev.com/ghpvc/?username=DevLuan1345&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/DevLuan1345?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/DevLuan1345?style=for-the-badge&color=yellow" />
 </p>
